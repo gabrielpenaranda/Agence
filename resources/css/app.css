@@ -1,0 +1,15 @@
+.margen-superior {
+    margin-top: 90px;
+}
+
+.font-titulo {
+    font-size: 1.5rem;
+}
+
+.font-negativo {
+    color: red;
+}
+
+.font-lucro {
+    color: blue;
+}
